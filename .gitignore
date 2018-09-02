@@ -1,0 +1,9 @@
+/languages/*.po~
+/languages/*.pot~
+*.js.map
+
+/wp
+node_modules/
+.idea/
+.vscode/
+.DS_Store
